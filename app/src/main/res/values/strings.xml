@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Ejercicio09</string>
+    <string name="Ed_Usuario" />
+    <string name="txt_Contra" />
+    <string name="Btn_Iniciar">Log in</string>
+    <string name="contra" />
+    <string name="Usuario" />
+    <string name="Iniciar">Iniciar</string>
+    <string name="User">Regina Ulloa</string>
+    <string name="Cont">Informática</string>
+    <string name="btnCerrar">Cerrar</string>
+</resources>
